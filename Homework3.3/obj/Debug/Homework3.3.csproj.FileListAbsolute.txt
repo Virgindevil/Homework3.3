@@ -1,0 +1,7 @@
+C:\Users\Virgin\Downloads\Homework3.3-master\Homework3.3-master\Homework3.3\bin\Debug\Homework3.3.exe.config
+C:\Users\Virgin\Downloads\Homework3.3-master\Homework3.3-master\Homework3.3\bin\Debug\Homework3.3.exe
+C:\Users\Virgin\Downloads\Homework3.3-master\Homework3.3-master\Homework3.3\bin\Debug\Homework3.3.pdb
+C:\Users\Virgin\Downloads\Homework3.3-master\Homework3.3-master\Homework3.3\obj\Debug\Homework3.3.csproj.AssemblyReference.cache
+C:\Users\Virgin\Downloads\Homework3.3-master\Homework3.3-master\Homework3.3\obj\Debug\Homework3.3.csproj.CoreCompileInputs.cache
+C:\Users\Virgin\Downloads\Homework3.3-master\Homework3.3-master\Homework3.3\obj\Debug\Homework3.3.exe
+C:\Users\Virgin\Downloads\Homework3.3-master\Homework3.3-master\Homework3.3\obj\Debug\Homework3.3.pdb
